@@ -1,0 +1,40 @@
+[Bb]in
+[Dd]ebug*/
+obj/
+.vs/
+
+packages/
+node_modules/
+
+Logs/
+Developer Tools/Logs/
+Service/Logs/
+Shared/Logs/
+Visio/Logs/
+Web/Logs/
+test_results/
+
+#Ignore upgrade logs
+**/UpgradeLog*.htm
+
+*.log
+*.crunchsolution.cache
+*.suo
+*.user
+*.userprefs
+*.jfm
+*.vspscc
+*.vssscc
+*.pfx
+*.dbmdl
+.tfignore
+*.coverage
+*.trx
+
+*.pubxml
+
+# azure functions settings file
+local.settings.json
+
+# local dotnet core settings file
+appsettings.Local.json
