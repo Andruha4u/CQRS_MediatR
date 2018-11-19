@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BS.Business\BS.Queries\BS.Queries.csproj" />
+    <ProjectReference Include="..\BS.Queries\BS.Queries.csproj" />
   </ItemGroup>
 
 </Project>

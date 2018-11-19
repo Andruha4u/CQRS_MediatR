@@ -22,7 +22,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BS.Business\BS.Commands\BS.Commands.csproj" />
     <ProjectReference Include="..\BS.Business\BS.Queries\BS.Queries.csproj" />
-    <ProjectReference Include="..\BS.Infrastructure\BS.Infrastructure.csproj" />
+    <ProjectReference Include="..\BS.Business\BS.Infrastructure\BS.Infrastructure.csproj" />
     <ProjectReference Include="..\BS.Persistence\BS.Persistence.csproj" />
   </ItemGroup>
 
